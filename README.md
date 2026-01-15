@@ -2,7 +2,7 @@
 Olá!! Aqui veremos algumas resoluções de códigos em python utilizando o Github Copilot, o objetivo dessa atividade é de usar e entender que a IA pode nos ajudar em nosso código e auxiliar em nosso aprendizado.
 
 ### Atenção ⚠️
-___Esse repositório é apenas para a entrega de uma atividade do curso Formação Git hub Certification da DIO. Futuramente, pretendo deixar esse repositório no privado e começarei a fazer meus repositórios/projetos pessoais. ___
+***Esse repositório é apenas para a entrega de uma atividade do curso Formação Git hub Certification da DIO. Futuramente, pretendo deixar esse repositório no privado e começarei a fazer meus repositórios/projetos pessoais.***
 
 ## 1 - Concatenando Dados 🐾
 Descrição: Vamos receber dois dados diferentes do usuário e concatená-los em uma única string?!
